@@ -1,0 +1,9 @@
+{
+  "name": "Физика SK/RU — карманный справочник",
+  "short_name": "Физика SK/RU",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#160d12",
+  "theme_color": "#171316",
+  "lang": "ru"
+}
